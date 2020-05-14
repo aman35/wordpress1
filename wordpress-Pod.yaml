@@ -18,4 +18,4 @@ spec:
         - name: WORDPRESS_DB_NAME
           value: wordpress
       ports:
-        containerPort: 80
+        - containerPort: 80
