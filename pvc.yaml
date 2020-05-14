@@ -1,6 +1,7 @@
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
+  name: mysql_pv
   labels:
     name: mysql_pvc
     app: wordpress_app
