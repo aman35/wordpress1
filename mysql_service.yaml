@@ -12,7 +12,6 @@ spec:
   selector:
     matchLabels:
       name: mysql
-      app: wordpress_app
   type: CLusterIP
 
 

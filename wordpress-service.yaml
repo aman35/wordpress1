@@ -12,5 +12,4 @@ spec:
   selector:
     matchLabels:
       name: wordpress
-      app: wordpress_app
   type: LoadBalancer
