@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: wordpress_service
-  lables:
+  labels:
     name: wordpress_service
     app: wordpress_app
 spec:
