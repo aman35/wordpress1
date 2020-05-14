@@ -1,6 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
+  name: mysql_service
   lables:
     name: mysql_service
     app: wordpress_app
