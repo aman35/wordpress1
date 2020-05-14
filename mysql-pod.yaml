@@ -19,6 +19,6 @@ spec:
   volumes:
     - name: mysql
       persistentVolumeClaim:
-        claimName: mysql_pvc
+        claimName: mysqlpvc
 
 
