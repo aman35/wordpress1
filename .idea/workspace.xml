@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e126d13e-aea2-46af-aaac-65476650b09e" name="Default Changelist" comment="added name in metadata in all files.">
+    <list default="true" id="e126d13e-aea2-46af-aaac-65476650b09e" name="Default Changelist" comment="added name in metadata in all files.&#10;corrected labels spelling in services file">
       <change beforePath="$PROJECT_DIR$/mysql_service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mysql_service.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wordpress-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress-service.yaml" afterDir="false" />
     </list>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589500531614</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added name in metadata in all files.&#10;corrected labels spelling in services file">
+      <created>1589500607680</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589500607680</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,17 +120,18 @@
     <MESSAGE value="v3" />
     <MESSAGE value="added - infornt of container port in pod files" />
     <MESSAGE value="added name in metadata in all files." />
-    <option name="LAST_COMMIT_MESSAGE" value="added name in metadata in all files." />
+    <MESSAGE value="added name in metadata in all files.&#10;corrected labels spelling in services file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added name in metadata in all files.&#10;corrected labels spelling in services file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1589499278279">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589499278279" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589500536707">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589500613262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589500536707" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589500613262" />
     <state x="605" y="274" key="git4idea.rebase.GitRebaseDialog" timestamp="1589499109381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
