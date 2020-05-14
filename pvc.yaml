@@ -1,9 +1,9 @@
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: mysql_pvc
+  name: mysqlpvc
   labels:
-    name: mysql_pvc
+    name: mysqlpvc
     app: wordpress_app
 spec:
   accessModes:
@@ -14,7 +14,7 @@ spec:
       storage: 2Gi
   selector:
     matchLabels:
-      name: mysql_pv
+      name: mysqlpv
       app: wordpress_app
 
 
