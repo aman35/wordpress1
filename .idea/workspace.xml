@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589501024628</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added name in metadata in all files.&#10;corrected labels spelling in services file&#10;added 1 infront of ports in service file">
+      <created>1589501273873</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589501273874</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,10 +156,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589499278279" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589501027991">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589501330700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589501027991" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589501330700" />
     <state x="605" y="274" key="git4idea.rebase.GitRebaseDialog" timestamp="1589499109381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
