@@ -4,7 +4,7 @@ metadata:
   name: mysqlpvc
   labels:
     name: mysqlpvc
-    app: wordpress_app
+    app: wordpress-app
 spec:
   accessModes:
     - ReadWriteOnce
@@ -15,7 +15,7 @@ spec:
   selector:
     matchLabels:
       name: mysqlpv
-      app: wordpress_app
+      app: wordpress-app
 
 
 

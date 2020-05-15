@@ -4,7 +4,7 @@ metadata:
   name: mysqlpv
   labels:
     name: mysqlpv
-    app: wordpress_app
+    app: wordpress-app
 spec:
   accessModes:
     - ReadWriteOnce

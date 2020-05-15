@@ -1,17 +1,16 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: mysql_service
+  name: mysql-service
   labels:
-    name: mysql_service
+    name: mysql-service
     app: wordpress_app
 spec:
   ports:
     - targetPort: 3306
       port: 3306
   selector:
-    matchLabels:
-      name: mysql
-  type: CLusterIP
+    name: mysql
+  type: ClusterIP
 
 
