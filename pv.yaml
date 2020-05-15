@@ -14,4 +14,5 @@ spec:
     pdName: my-data-disk
     fsType: ext4
   volumeMode: Filesystem
+  storageClassName: standard
 
